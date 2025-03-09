@@ -261,6 +261,14 @@ public final class Grasscutter {
         }
     }
 
+/**
+      * Returns the memory usage of the server, in megabytes.
+      */
+     public static long getMemoryUsage() {
+         Runtime runtime = Runtime.getRuntime();
+         return (runtime.totalMemory() - runtime.freeMemory()) / 1_048_576L;
+     }
+
     /**
      * Saves the provided server configuration.
      *
