@@ -56,7 +56,7 @@ public final class InfoCommand implements CommandHandler {
             Using Fast Require: %s
             Operating System: %s
             Resource Information: %s
-            Memory usage内存占用: %s MB
+            Memory usage 内存占用: %s MB
 
             discord.gg/2AxayFampP"""
                     .formatted(
