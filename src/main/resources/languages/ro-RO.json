@@ -49,7 +49,7 @@
       "router_error": "[Dispatch] Nu se poate atașa routerul."
     },
     "status": {
-      "free_software": "Grasscutter este un software GRATUIT. Dacă ați plătit pentru asta, s-ar putea să fi fost înșelat. Homepage: https://github.com/Grasscutters/Grasscutter",
+      "free_software": "Luna 是免费开源软件，遵循 AGPL-3.0 license。\n\t如果你是付费购买的，那你已经被骗了。\n\t项目地址：https://github.com/Kun-jiyu/LunaGC_5.4.0",
       "starting": "Grasscutter se pornește...",
       "shutdown": "Se închide...",
       "done": "Gata! Pentru ajutor, scrieți \"help\"",

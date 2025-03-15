@@ -49,7 +49,7 @@
       "router_error": "[Dispatch] Impossibile collegare il router."
     },
     "status": {
-      "free_software": "Grasscutter è un software GRATUITO. Se lo hai pagato, potresti essere stato truffato. Homepage: https://github.com/Grasscutters/Grasscutter",
+      "free_software": "Luna 是免费开源软件，遵循 AGPL-3.0 license。\n\t如果你是付费购买的，那你已经被骗了。\n\t项目地址：https://github.com/Kun-jiyu/LunaGC_5.4.0",
       "starting": "Avvio di Grasscutter...",
       "shutdown": "Chiusura in corso...",
       "done": "Fatto! Per aiuto, digita \"help\"",

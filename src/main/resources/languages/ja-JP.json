@@ -49,7 +49,7 @@
       "router_error": "[Dispatch] ルーターを接続できません。"
     },
     "status": {
-      "free_software": "Grasscutterはフリーソフトウェアです。 これにお金を払ったのなら、詐欺にあった可能性があります。 ホームページ: https://github.com/Grasscutters/Grasscutter",
+      "free_software": "Luna 是免费开源软件，遵循 AGPL-3.0 license。\n\t如果你是付费购买的，那你已经被骗了。\n\t项目地址：https://github.com/Kun-jiyu/LunaGC_5.4.0",
       "starting": "Grasscutterを起動中...",
       "shutdown": "シャットダウンしています...",
       "done": "起動完了!ヘルプが必要な場合は、次のように入力してください \"help\"",
