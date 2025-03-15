@@ -146,7 +146,7 @@ public class ConfigContainer {
         /* This starts the HTTP server before the game server. */
         public boolean startImmediately = false;
 
-        public String bindAddress = "0.0.0.0";
+        public String bindAddress = "127.0.0.1";
         public int bindPort = 8088;
 
         /* This is the address used in URLs. */
@@ -160,7 +160,7 @@ public class ConfigContainer {
     }
 
     public static class Game {
-        public String bindAddress = "0.0.0.0";
+        public String bindAddress = "127.0.0.1";
         public int bindPort = 22101;
 
         /* This is the address used in the default region. */
